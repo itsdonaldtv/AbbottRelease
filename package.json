@@ -23,10 +23,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsdonaldtv/Abbott.git"
+    "url": "git+https://github.com/itsdonaldtv/AbbottRelease.git"
   },
   "bugs": {
-    "url": "https://github.com/itsdonaldtv/Abbott/issues"
+    "url": "https://github.com/itsdonaldtv/AbbottRelease/issues"
   },
-  "homepage": "https://github.com/itsdonaldtv/Abbott#readme"
+  "homepage": "https://github.com/itsdonaldtv/AbbottRelease#readme"
 }
