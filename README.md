@@ -1,5 +1,6 @@
 # Abbott
 A robust, lightweight Discord bot framework. Easy to extend and easy to use.
+Abbott (A play on 'a bot' is meant to convey to users that its simply a bot, easy to use and understand) 
 Built upon DiscordJS this serves to be a painless way to build upon a bot on Discord, skip all basic requirements and set up and go straight to customising your bot the way you want and need it for. 
 The aim was to provide the frame work for users, so they only have to learn the basics
 of documentation and can use this framework to easily extend for their own usage.
