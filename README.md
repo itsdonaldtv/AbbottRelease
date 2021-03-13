@@ -6,6 +6,7 @@ The aim was to provide the frame work for users, so they only have to learn the 
 of documentation and can use this framework to easily extend for their own usage.
 
 Installation:
+Install dependencies using npm in root 
 
 Quick Set Up:
 In config.json
