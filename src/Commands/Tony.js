@@ -11,6 +11,6 @@ module.exports = class extends Command {
 
     async run(message, args)
     {   
-        message.channel.send("is gay");
+        message.channel.send("tony bro...");
     }
 }
